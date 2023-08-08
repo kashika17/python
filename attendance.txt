@@ -1,0 +1,6 @@
+Student ID:  001
+status:
+('16/07/2023', 'A')
+Student ID:  002
+status:
+('17/07/2023', 'P')
